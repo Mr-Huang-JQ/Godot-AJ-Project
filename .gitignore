@@ -1,1 +1,6 @@
 .godot/
+.aj_autoload
+.aj_scene
+.aj_resource
+new_directory/
+Test/

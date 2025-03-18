@@ -8,10 +8,15 @@
 
 config_version=5
 
+[*res:]
+
+/Test/control.tscn="autoload/NewName1"
+/Test/new_test.tscn="autoload/New_Test"
+
 [application]
 
 config/name="Godot AJ Project"
-config/features=PackedStringArray("4.3", "Forward Plus")
+config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
